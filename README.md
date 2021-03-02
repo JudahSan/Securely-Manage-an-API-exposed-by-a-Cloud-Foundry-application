@@ -24,11 +24,26 @@ Visit your application and copy your application url
 
 <img width="666" alt="5" src="https://user-images.githubusercontent.com/16270682/109647690-0927f080-7b73-11eb-8f5f-6c4c7026702e.PNG">
 
-## Step 3
+## Step 3 Create an API using "API Gateway"
 
+From navigation menu select API Management 
 
+<img width="460" alt="6" src="https://user-images.githubusercontent.com/16270682/109648359-f6fa8200-7b73-11eb-9fbe-128776c1d63d.PNG">
 
-## Step 4
+Select services -> API Gateway
 
-## Step 5
+<img width="939" alt="7" src="https://user-images.githubusercontent.com/16270682/109648385-fd88f980-7b73-11eb-9aa0-0e29d6dc953c.PNG">
+
+From managed API's select API proxy
+
+<img width="939" alt="8" src="https://user-images.githubusercontent.com/16270682/109648412-05e13480-7b74-11eb-872d-79e3db54eba3.PNG">
+
+Give your API a unique name, in the exteral URL field paste your application url that you copied in step 2
+<img width="918" alt="9" src="https://user-images.githubusercontent.com/16270682/109648435-0d084280-7b74-11eb-8f87-02fc07b77ae9.PNG">
+
+Your API is ready and live, copy your API route address and open it in new window. 
+<img width="890" alt="10" src="https://user-images.githubusercontent.com/16270682/109648460-1396ba00-7b74-11eb-90cb-c3a73c9cd1b0.PNG">
+
+You have managed to securely expose a cloud Foundry application. 
+
 
